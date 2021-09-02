@@ -13,7 +13,7 @@ A collection of awesome things regarding the React ecosystem.
 - [React Official Website](https://reactjs.org/)
 - [React Documentation](https://reactjs.org/docs)
 - [React GitHub](https://github.com/facebook/react)
-- 
+
 #### React Online Playgrounds
 
 - [CodePen](https://reactjs.org/redirect-to-codepen/hello-world)
@@ -63,32 +63,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 - [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
 
-##### React Internals
-
-- [Reconciliation](https://reactjs.org/docs/reconciliation.html)
-- [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-- [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
-- [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
-- [Entire React code base explanation by visual block schemes](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
-
-##### React Interview Questions
-
-- [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
-- [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
-- [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
-
-#### React Tools
-
-##### React Development Tools
-
-- [react-devtools](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
-- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
-- [react-loadable](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
-- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
-- [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test
-- [docz](https://github.com/doczjs/docz) - Zero Config, live-reloading documentation with Markdown + JSX
-- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 
 
 ##### React Starter Kits and Toolchains
@@ -212,20 +186,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) - SVG Drawing with React hooks
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
-
-##### Maps
-
-- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
-- [react-maps](https://github.com/matnel/react-maps) - A map component for React
-- [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-- [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
-- [react-map-gl](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
-- [google-map-react](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
-- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
-- [google-maps-react](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
-- [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
-- [react-geo](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
-- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
 ##### Charts
 
