@@ -149,20 +149,6 @@ A collection of awesome things regarding the React ecosystem.
 - [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
 - [react-uploady](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
 
-##### React State Management
-
-- [redux](#redux) - Predictable State Container for JavaScript Apps
-- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
-- [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
-- [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
-- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
-- [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
-- [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
-- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
-- [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
-
 ##### Forms
 
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
